@@ -16,7 +16,7 @@ LOGGER = getLogger(__name__)
 # A list of valid bible versions is available at:
 # www.biblegateway.com/versions/index.php
 # Ex: RVR1960, EVR-AR, LSG, etc
-BIBLE_VERSION = 'ESV'
+BIBLE_VERSION = 'NASB'
 
 BASE_URL = 'https://www.biblegateway.com/'
 PASSAGE_URL = 'passage/'
